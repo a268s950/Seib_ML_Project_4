@@ -19,4 +19,4 @@ The example he gave was a fixed size array markedw ith Xs and Os is good enough.
 
 Resources Used:
 https://www.davidsilver.uk/wp-content/uploads/2020/03/intro_RL.pdf
-
+https://towardsdatascience.com/intro-to-reinforcement-learning-pong-92a94aa0f84d
