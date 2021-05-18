@@ -11,11 +11,7 @@ We do the treasure hunting and monster fighting for you
 
 Notes:
 This project has one exploitation policy and one exploration policy.
-Options: moving monsters, but not necessary. focus on policies and learning aspect.
-Deep RL isn't necessary, basic Q learning is fine.
-Can the policies be deterministic or stoachastic approach?
-A deterministic algorithm is fine.
-The example he gave was a fixed size array markedw ith Xs and Os is good enough.
+Q learning, with a deterministic algorithm.
 
 Resources Used:
 https://www.davidsilver.uk/wp-content/uploads/2020/03/intro_RL.pdf
